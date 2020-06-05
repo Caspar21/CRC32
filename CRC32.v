@@ -1,7 +1,6 @@
 //Project: Homework2
 //Module: CRC32
 //Author: Caspar Chen
-//E-mail:caspar_chen@pegatroncorp.com
 //Date:20200210
 
 `timescale 1ns/1ns 
